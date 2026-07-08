@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Добавить русский язык в Previews (For TTV & YT)
+// @name         Добавить русский язык в Previews (For Twitch & YouTube & Kick)
 // @namespace    https://github.com/denis-ershov/previews-for-ttv-yt-russian-language
 // @version      1.0.1
-// @description:🇷🇺 Добавляет русский язык в настройки браузерного расширения "Previews (For TTV & YT)"
-// @description:en Adds Russian language option to "Previews (For TTV & YT)" browser extension settings
+// @description:🇷🇺 Добавляет русский язык в настройки браузерного расширения "Previews (For Twitch & YouTube & Kick)"
+// @description:en Adds Russian language option to "Previews (For Twitch & YouTube & Kick)" browser extension settings
 // @author       Denis Ershov
 // @match        *://*.twitch.tv/*
 // @match        *://*.youtube.com/*
@@ -19,10 +19,10 @@
 // ==/UserScript==
 
 /**
- * Дополнение русского языка для расширения "Previews (For TTV & YT)"
+ * Дополнение русского языка для расширения "Previews (For Twitch & YouTube & Kick)"
  * 
  * Этот пользовательский скрипт автоматически добавляет опцию русского языка
- * в селектор языков в настройках браузерного расширения "Previews (For TTV & YT)".
+ * в селектор языков в настройках браузерного расширения "Previews (For Twitch & YouTube & Kick)".
  * 
  * Репозиторий: https://github.com/denis-ershov/previews-for-ttv-yt-russian-language
  * Лицензия: MIT
